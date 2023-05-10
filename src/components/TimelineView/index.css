@@ -1,0 +1,19 @@
+/* .chrono-container {
+  width: 400px;
+  height: 600px;
+} */
+
+.app-title-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.programme-title {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #2b237c;
+  font-weight: bold;
+}

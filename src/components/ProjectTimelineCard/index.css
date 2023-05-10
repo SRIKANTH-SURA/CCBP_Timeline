@@ -1,0 +1,19 @@
+.project-img {
+  width: 100%;
+}
+
+.project-title {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #171f46;
+}
+
+.project-url {
+  text-decoration: none;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: #0967d2;
+  padding: 12px 0px;
+  display: inline-block;
+}
